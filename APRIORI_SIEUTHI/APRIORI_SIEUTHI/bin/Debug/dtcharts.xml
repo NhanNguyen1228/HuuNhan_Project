@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Chart>
+    <Luat>Thịt ba chỉ hun khói =&gt; Bia TIGER thùng 24 lon x 330ml</Luat>
+    <Confidence>81.82</Confidence>
+  </Chart>
+  <Chart>
+    <Luat>Bánh COSY rắc hạt KINH ĐÔ =&gt; Bánh CUSTAR Orion 138g</Luat>
+    <Confidence>63.64</Confidence>
+  </Chart>
+  <Chart>
+    <Luat>Chổi quét nhà nhựa PEACOCK =&gt; Bánh CUSTAR Orion 138g</Luat>
+    <Confidence>44.44</Confidence>
+  </Chart>
+  <Chart>
+    <Luat>KEM đánh răng PS 250g =&gt; Bánh COSY kẹp kem 400g</Luat>
+    <Confidence>77.78</Confidence>
+  </Chart>
+  <Chart>
+    <Luat>Bánh COSY kẹp kem 400g =&gt; KEM đánh răng PS 250g</Luat>
+    <Confidence>43.75</Confidence>
+  </Chart>
+  <Chart>
+    <Luat>Bia TIGER thùng 24 lon x 330ml =&gt; Bánh Boon Phanmer soco hộp</Luat>
+    <Confidence>56</Confidence>
+  </Chart>
+  <Chart>
+    <Luat>Bánh Boon Phanmer soco hộp =&gt; Bia TIGER thùng 24 lon x 330ml</Luat>
+    <Confidence>48.28</Confidence>
+  </Chart>
+  <Chart>
+    <Luat>COCACOLA thùng 24 lon =&gt; Tã em bé BABY FRESH</Luat>
+    <Confidence>50</Confidence>
+  </Chart>
+  <Chart>
+    <Luat>Bia TIGER thùng 24 lon x 330ml =&gt; Tã em bé BABY FRESH</Luat>
+    <Confidence>48</Confidence>
+  </Chart>
+  <Chart>
+    <Luat>Phấn em bé Johnson Baby =&gt; Tã em bé BABY FRESH</Luat>
+    <Confidence>45.16</Confidence>
+  </Chart>
+  <Chart>
+    <Luat>Tã em bé BABY FRESH =&gt; Phấn em bé Johnson Baby</Luat>
+    <Confidence>41.18</Confidence>
+  </Chart>
+</DocumentElement>

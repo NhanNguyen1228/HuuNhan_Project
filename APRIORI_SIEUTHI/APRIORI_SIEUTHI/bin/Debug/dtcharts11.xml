@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Charts11>
+    <Luat>Mực ống Cô Tô 320g =&gt; Đầu cá hồi 500g</Luat>
+    <Confidence>88.89</Confidence>
+  </Charts11>
+  <Charts11>
+    <Luat>Ba rọt lát mỏng =&gt; Thịt ba chỉ hun khói</Luat>
+    <Confidence>88.89</Confidence>
+  </Charts11>
+  <Charts11>
+    <Luat>Thịt ba chỉ hun khói =&gt; Ba rọt lát mỏng</Luat>
+    <Confidence>72.73</Confidence>
+  </Charts11>
+  <Charts11>
+    <Luat>Thịt ba chỉ hun khói =&gt; Bánh Boon Phanmer soco hộp</Luat>
+    <Confidence>81.82</Confidence>
+  </Charts11>
+  <Charts11>
+    <Luat>Mực ống Cô Tô 320g =&gt; Tã em bé BABY FRESH</Luat>
+    <Confidence>100</Confidence>
+  </Charts11>
+  <Charts11>
+    <Luat>Ba rọt lát mỏng =&gt; Tã em bé BABY FRESH</Luat>
+    <Confidence>88.89</Confidence>
+  </Charts11>
+  <Charts11>
+    <Luat>Thịt ba chỉ hun khói =&gt; Tã em bé BABY FRESH</Luat>
+    <Confidence>72.73</Confidence>
+  </Charts11>
+</DocumentElement>

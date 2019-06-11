@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Charts7>
+    <Luat>Nước ngọt FANTA can chai 1.5L =&gt; Nước ngọt BIDRICO cam chai 1.25ml</Luat>
+    <Confidence>80</Confidence>
+  </Charts7>
+  <Charts7>
+    <Luat>Nước ngọt BIDRICO cam chai 1.25ml =&gt; Nước ngọt FANTA can chai 1.5L</Luat>
+    <Confidence>80</Confidence>
+  </Charts7>
+  <Charts7>
+    <Luat>Bia HENIKEN thùng 24 lon x 330ml =&gt; Bánh Boon Phanmer soco hộp</Luat>
+    <Confidence>100</Confidence>
+  </Charts7>
+  <Charts7>
+    <Luat>Bia TIGER thùng 24 lon x 330ml =&gt; Bánh Boon Phanmer soco hộp</Luat>
+    <Confidence>56</Confidence>
+  </Charts7>
+</DocumentElement>

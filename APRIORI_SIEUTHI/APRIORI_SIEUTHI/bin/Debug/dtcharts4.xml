@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Charts4>
+    <Luat>Bánh COSY rắc hạt KINH ĐÔ =&gt; Bánh CUSTAR Orion 138g</Luat>
+    <Confidence>63.64</Confidence>
+  </Charts4>
+  <Charts4>
+    <Luat>Chổi quét nhà nhựa PEACOCK =&gt; Bánh CUSTAR Orion 138g</Luat>
+    <Confidence>44.44</Confidence>
+  </Charts4>
+  <Charts4>
+    <Luat>KEM đánh răng PS 250g =&gt; Bánh COSY kẹp kem 400g</Luat>
+    <Confidence>77.78</Confidence>
+  </Charts4>
+  <Charts4>
+    <Luat>Bánh COSY kẹp kem 400g =&gt; KEM đánh răng PS 250g</Luat>
+    <Confidence>43.75</Confidence>
+  </Charts4>
+</DocumentElement>

@@ -1,0 +1,5 @@
+Sả cây L1 Vineco => Nước ngọt cocacola chai 1.5L	Conf: 77.78%
+Nước ngọt cocacola chai 1.5L => Sả cây L1 Vineco	Conf: 77.78%
+Nước uống trai cây ICE+ 490ml => Trà Ô LONG TEA Plus 320ml	Conf: 70%
+Nước ngọt FANTA can chai 1.5L => Nước ngọt BIDRICO cam chai 1.25ml	Conf: 80%
+Nước ngọt BIDRICO cam chai 1.25ml => Nước ngọt FANTA can chai 1.5L	Conf: 80%

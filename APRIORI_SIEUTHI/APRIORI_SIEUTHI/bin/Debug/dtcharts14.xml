@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Charts14>
+    <Luat>Mực ống Cô Tô 320g =&gt; Đầu cá hồi 500g</Luat>
+    <Confidence>88.89</Confidence>
+  </Charts14>
+  <Charts14>
+    <Luat>Mực ống Cô Tô 320g =&gt; COCACOLA thùng 24 lon</Luat>
+    <Confidence>88.89</Confidence>
+  </Charts14>
+  <Charts14>
+    <Luat>Ba rọt lát mỏng =&gt; Thịt ba chỉ hun khói</Luat>
+    <Confidence>88.89</Confidence>
+  </Charts14>
+  <Charts14>
+    <Luat>Thịt ba chỉ hun khói =&gt; Ba rọt lát mỏng</Luat>
+    <Confidence>72.73</Confidence>
+  </Charts14>
+  <Charts14>
+    <Luat>Nước ngọt FANTA can chai 1.5L =&gt; Nước ngọt BIDRICO cam chai 1.25ml</Luat>
+    <Confidence>80</Confidence>
+  </Charts14>
+  <Charts14>
+    <Luat>Nước ngọt BIDRICO cam chai 1.25ml =&gt; Nước ngọt FANTA can chai 1.5L</Luat>
+    <Confidence>80</Confidence>
+  </Charts14>
+  <Charts14>
+    <Luat>Thịt ba chỉ hun khói =&gt; Bia TIGER thùng 24 lon x 330ml</Luat>
+    <Confidence>81.82</Confidence>
+  </Charts14>
+  <Charts14>
+    <Luat>Bia HENIKEN thùng 24 lon x 330ml =&gt; Bánh Boon Phanmer soco hộp</Luat>
+    <Confidence>100</Confidence>
+  </Charts14>
+  <Charts14>
+    <Luat>Thịt ba chỉ hun khói =&gt; Bánh Boon Phanmer soco hộp</Luat>
+    <Confidence>81.82</Confidence>
+  </Charts14>
+  <Charts14>
+    <Luat>Bia TIGER thùng 24 lon x 330ml =&gt; Bánh Boon Phanmer soco hộp</Luat>
+    <Confidence>56</Confidence>
+  </Charts14>
+</DocumentElement>

@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Charts8>
+    <Luat>Gọt bút chì =&gt; Bút chì màu GIOTTO (24 màu)</Luat>
+    <Confidence>85.71</Confidence>
+  </Charts8>
+  <Charts8>
+    <Luat>Bút chì màu GIOTTO (24 màu) =&gt; Gọt bút chì</Luat>
+    <Confidence>85.71</Confidence>
+  </Charts8>
+  <Charts8>
+    <Luat>Bút bi THIÊN LONG =&gt; Bảng vẽ phấn</Luat>
+    <Confidence>55.56</Confidence>
+  </Charts8>
+  <Charts8>
+    <Luat>Bảng vẽ phấn =&gt; Bút bi THIÊN LONG</Luat>
+    <Confidence>55.56</Confidence>
+  </Charts8>
+  <Charts8>
+    <Luat>Kem chống hăm LOTION =&gt; Sữa tắm không cay mắt Johnson</Luat>
+    <Confidence>100</Confidence>
+  </Charts8>
+  <Charts8>
+    <Luat>Bút bi THIÊN LONG =&gt; Phấn em bé Johnson Baby</Luat>
+    <Confidence>55.56</Confidence>
+  </Charts8>
+  <Charts8>
+    <Luat>Bảng vẽ phấn =&gt; Phấn em bé Johnson Baby</Luat>
+    <Confidence>100</Confidence>
+  </Charts8>
+  <Charts8>
+    <Luat>Bảng vẽ phấn =&gt; Tã em bé BABY FRESH</Luat>
+    <Confidence>77.78</Confidence>
+  </Charts8>
+</DocumentElement>

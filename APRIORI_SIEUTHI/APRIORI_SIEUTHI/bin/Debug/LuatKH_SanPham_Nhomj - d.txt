@@ -1,0 +1,8 @@
+Gọt bút chì => Bút chì màu GIOTTO (24 màu)	Conf: 85.71%
+Bút chì màu GIOTTO (24 màu) => Gọt bút chì	Conf: 85.71%
+Bánh COSY rắc hạt KINH ĐÔ => Bánh CUSTAR Orion 138g	Conf: 63.64%
+Bút bi THIÊN LONG => Bảng vẽ phấn	Conf: 55.56%
+Bảng vẽ phấn => Bút bi THIÊN LONG	Conf: 55.56%
+Bánh Boon Phanmer vani 260g => Bánh Boon Phanmer soco hộp	Conf: 54.55%
+Bút bi THIÊN LONG => Bánh Boon Phanmer soco hộp	Conf: 55.56%
+Bảng vẽ phấn => Bánh Boon Phanmer soco hộp	Conf: 66.67%

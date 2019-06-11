@@ -1,0 +1,7 @@
+{Rau - củ - quả} => {Nước uống}	Conf: 73.21%
+{Mỹ phẩm} => {Nước uống}	Conf: 55.1%
+{Gia vị} => {Nước uống}	Conf: 51.85%
+{Thực phẩm đông lạnh} => {Nước uống}	Conf: 75%
+{Dụng cụ nhà tắm, vệ sinh} => {Bánh - kẹo - sữa}	Conf: 63.46%
+{Bánh - kẹo - sữa} => {Nước uống}	Conf: 59.74%
+{Đồ dùng trẻ em} => {Nước uống}	Conf: 66.67%
